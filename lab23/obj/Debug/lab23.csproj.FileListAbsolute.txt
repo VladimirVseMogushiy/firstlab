@@ -1,0 +1,15 @@
+C:\Users\Vladimir\source\repos\lab2c\lab23\bin\Debug\lab23.exe.config
+C:\Users\Vladimir\source\repos\lab2c\lab23\bin\Debug\lab23.exe
+C:\Users\Vladimir\source\repos\lab2c\lab23\bin\Debug\lab23.pdb
+C:\Users\Vladimir\source\repos\lab2c\lab23\obj\Debug\lab23.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\source\repos\lab2c\lab23\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir\source\repos\lab2c\lab23\obj\Debug\App.g.cs
+C:\Users\Vladimir\source\repos\lab2c\lab23\obj\Debug\lab23_MarkupCompile.cache
+C:\Users\Vladimir\source\repos\lab2c\lab23\obj\Debug\lab23_MarkupCompile.lref
+C:\Users\Vladimir\source\repos\lab2c\lab23\obj\Debug\MainWindow.baml
+C:\Users\Vladimir\source\repos\lab2c\lab23\obj\Debug\lab23.g.resources
+C:\Users\Vladimir\source\repos\lab2c\lab23\obj\Debug\lab23.Properties.Resources.resources
+C:\Users\Vladimir\source\repos\lab2c\lab23\obj\Debug\lab23.csproj.GenerateResource.Cache
+C:\Users\Vladimir\source\repos\lab2c\lab23\obj\Debug\lab23.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\lab2c\lab23\obj\Debug\lab23.exe
+C:\Users\Vladimir\source\repos\lab2c\lab23\obj\Debug\lab23.pdb

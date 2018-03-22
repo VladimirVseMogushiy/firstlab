@@ -1,0 +1,19 @@
+﻿<Window x:Class="lab25.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab25"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="bstart" Content="Старт" HorizontalAlignment="Left" Margin="51,264,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button x:Name="bstop" Content="Стоп" HorizontalAlignment="Left" Margin="219,264,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button x:Name="bdel" Content="Сброс" HorizontalAlignment="Left" Margin="382,264,0,0" VerticalAlignment="Top" Width="75" Click="bdel_Click"/>
+        <Label x:Name="lb" Content="Label" HorizontalAlignment="Left" Margin="281,86,0,0" VerticalAlignment="Top" Height="30" Width="70" RenderTransformOrigin="0.5,0.5"/>
+        <CheckBox x:Name="Hour" Content="час" HorizontalAlignment="Left" Margin="51,229,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked"/>
+        <CheckBox x:Name="Minute" Content="Минута" HorizontalAlignment="Left" Margin="219,229,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_1"/>
+        <CheckBox x:Name="Second" Content="Секунда" HorizontalAlignment="Left" Margin="382,229,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_2"/>
+
+    </Grid>
+</Window>

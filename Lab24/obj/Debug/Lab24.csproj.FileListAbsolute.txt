@@ -1,0 +1,15 @@
+C:\Users\Vladimir\source\repos\lab2c\Lab24\bin\Debug\Lab24.exe.config
+C:\Users\Vladimir\source\repos\lab2c\Lab24\bin\Debug\Lab24.exe
+C:\Users\Vladimir\source\repos\lab2c\Lab24\bin\Debug\Lab24.pdb
+C:\Users\Vladimir\source\repos\lab2c\Lab24\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir\source\repos\lab2c\Lab24\obj\Debug\App.g.cs
+C:\Users\Vladimir\source\repos\lab2c\Lab24\obj\Debug\Lab24_MarkupCompile.cache
+C:\Users\Vladimir\source\repos\lab2c\Lab24\obj\Debug\Lab24_MarkupCompile.lref
+C:\Users\Vladimir\source\repos\lab2c\Lab24\obj\Debug\MainWindow.baml
+C:\Users\Vladimir\source\repos\lab2c\Lab24\obj\Debug\Lab24.g.resources
+C:\Users\Vladimir\source\repos\lab2c\Lab24\obj\Debug\Lab24.Properties.Resources.resources
+C:\Users\Vladimir\source\repos\lab2c\Lab24\obj\Debug\Lab24.csproj.GenerateResource.Cache
+C:\Users\Vladimir\source\repos\lab2c\Lab24\obj\Debug\Lab24.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\lab2c\Lab24\obj\Debug\Lab24.exe
+C:\Users\Vladimir\source\repos\lab2c\Lab24\obj\Debug\Lab24.pdb
+C:\Users\Vladimir\source\repos\lab2c\Lab24\obj\Debug\Lab24.csprojResolveAssemblyReference.cache

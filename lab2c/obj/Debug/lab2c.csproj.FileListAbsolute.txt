@@ -1,0 +1,15 @@
+C:\Users\Vladimir\source\repos\lab2c\lab2c\bin\Debug\lab2c.exe.config
+C:\Users\Vladimir\source\repos\lab2c\lab2c\bin\Debug\lab2c.exe
+C:\Users\Vladimir\source\repos\lab2c\lab2c\bin\Debug\lab2c.pdb
+C:\Users\Vladimir\source\repos\lab2c\lab2c\obj\Debug\lab2c.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\source\repos\lab2c\lab2c\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir\source\repos\lab2c\lab2c\obj\Debug\App.g.cs
+C:\Users\Vladimir\source\repos\lab2c\lab2c\obj\Debug\lab2c_MarkupCompile.cache
+C:\Users\Vladimir\source\repos\lab2c\lab2c\obj\Debug\lab2c_MarkupCompile.lref
+C:\Users\Vladimir\source\repos\lab2c\lab2c\obj\Debug\MainWindow.baml
+C:\Users\Vladimir\source\repos\lab2c\lab2c\obj\Debug\lab2c.g.resources
+C:\Users\Vladimir\source\repos\lab2c\lab2c\obj\Debug\lab2c.Properties.Resources.resources
+C:\Users\Vladimir\source\repos\lab2c\lab2c\obj\Debug\lab2c.csproj.GenerateResource.Cache
+C:\Users\Vladimir\source\repos\lab2c\lab2c\obj\Debug\lab2c.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\lab2c\lab2c\obj\Debug\lab2c.exe
+C:\Users\Vladimir\source\repos\lab2c\lab2c\obj\Debug\lab2c.pdb
